@@ -14,3 +14,7 @@ file3 = 'MORA_November20241.xlsx'
 sp = pd.read_csv(file1) 
 noie = pd.read_csv(file2) 
 mora = pd.read_excel(file1)
+
+print(sp)
+print(noie)
+print(mora)
